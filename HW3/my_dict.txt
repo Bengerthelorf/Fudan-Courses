@@ -1,0 +1,12 @@
+spss
+excel
+python
+matlab
+java
+sql
+sas
+stata
+eviews
+spark
+hadoop
+mysql
